@@ -1,30 +1,47 @@
 # Hi there, I'm Debraj 👋
 
-Welcome to my GitHub profile! I'm excited to share my projects and collaborate with other developers. Here's a bit about me:
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--02--25-brightgreen)](https://github.com/debraj17)
 
-## About Me
+Welcome to my GitHub profile! I'm passionate about coding and building amazing things. Here's a little bit about me:
 
-- 💻 **Aspiring Software Engineer**
-- 🌐 **Web Developer**
-- 📚 **Lifelong Learner**
+## 🚀 About Me
 
-I have a passion for technology and continuous learning. My goal is to build innovative and scalable software that makes a difference.
+- 💻 Software Developer
+- 🌱 Always learning and growing
+- 👥 Open to collaborations and interesting projects
 
-## Skills
+## 🛠️ Tech Stack
 
-- **Programming Languages:** Python, JavaScript, Java, C
-- **Web Development:** HTML, CSS, React, Node.js, Express
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, AWS, Azure
+```text
+Languages:    JavaScript, Python, Java, C
+Frontend:     HTML, CSS, React
+Backend:      Node.js, Express
+Databases:    MongoDB, MySQL
+Tools:        Git, Docker, VS Code, Google Colab
+```
 
+## 📊 GitHub Stats
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=debraj17&show_icons=true&theme=dracula)](https://github.com/debraj17)
 
-## Get in Touch
+## 🔥 Recent Activity
 
-- 📫 **Email:** [debrajghosh601@gmail.com](mailto:debrajghosh602@gmail.com)
-- 💼 **LinkedIn:** [Debraj on LinkedIn](https://www.linkedin.com/in/debrajghosh26/)
-- 🐦 **Twitter:** [@debraj17](https://twitter.com/debraj17)
+- 🌟 Working on exciting new projects
+- 📚 Learning cloud technologies
+- 🤝 Open to collaborate on interesting projects
 
-Feel free to reach out if you want to collaborate on a project or just say hi. Let's build something amazing together!
+## 📫 How to reach me
 
-Thanks for visiting my profile!
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/debrajghosh26/)
+- 🐦 Follow me on [Twitter](https://twitter.com/debraj17)
+- 📧 Email me at [debrajghosh601@gmail.com]
+
+## 🌐 Find me around the web
+
+[![GitHub followers](https://img.shields.io/github/followers/debraj17?label=Follow&style=social)](https://github.com/debraj17)
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/debraj17">debraj17</a></p>
+
+> Last updated: 2025-02-25 16:18:03 UTC
